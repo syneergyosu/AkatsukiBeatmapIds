@@ -1,0 +1,17 @@
+C:\Users\dezzy\source\repos\UserBeatmapIds\UserBeatmapIds\bin\Debug\net8.0\UserBeatmapIds.exe
+C:\Users\dezzy\source\repos\UserBeatmapIds\UserBeatmapIds\bin\Debug\net8.0\UserBeatmapIds.deps.json
+C:\Users\dezzy\source\repos\UserBeatmapIds\UserBeatmapIds\bin\Debug\net8.0\UserBeatmapIds.runtimeconfig.json
+C:\Users\dezzy\source\repos\UserBeatmapIds\UserBeatmapIds\bin\Debug\net8.0\UserBeatmapIds.dll
+C:\Users\dezzy\source\repos\UserBeatmapIds\UserBeatmapIds\bin\Debug\net8.0\UserBeatmapIds.pdb
+C:\Users\dezzy\source\repos\UserBeatmapIds\UserBeatmapIds\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\dezzy\source\repos\UserBeatmapIds\UserBeatmapIds\obj\Debug\net8.0\UserBeatmapIds.csproj.AssemblyReference.cache
+C:\Users\dezzy\source\repos\UserBeatmapIds\UserBeatmapIds\obj\Debug\net8.0\UserBeatmapIds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dezzy\source\repos\UserBeatmapIds\UserBeatmapIds\obj\Debug\net8.0\UserBeatmapIds.AssemblyInfoInputs.cache
+C:\Users\dezzy\source\repos\UserBeatmapIds\UserBeatmapIds\obj\Debug\net8.0\UserBeatmapIds.AssemblyInfo.cs
+C:\Users\dezzy\source\repos\UserBeatmapIds\UserBeatmapIds\obj\Debug\net8.0\UserBeatmapIds.csproj.CoreCompileInputs.cache
+C:\Users\dezzy\source\repos\UserBeatmapIds\UserBeatmapIds\obj\Debug\net8.0\UserBeat.D0F3CAEB.Up2Date
+C:\Users\dezzy\source\repos\UserBeatmapIds\UserBeatmapIds\obj\Debug\net8.0\UserBeatmapIds.dll
+C:\Users\dezzy\source\repos\UserBeatmapIds\UserBeatmapIds\obj\Debug\net8.0\refint\UserBeatmapIds.dll
+C:\Users\dezzy\source\repos\UserBeatmapIds\UserBeatmapIds\obj\Debug\net8.0\UserBeatmapIds.pdb
+C:\Users\dezzy\source\repos\UserBeatmapIds\UserBeatmapIds\obj\Debug\net8.0\UserBeatmapIds.genruntimeconfig.cache
+C:\Users\dezzy\source\repos\UserBeatmapIds\UserBeatmapIds\obj\Debug\net8.0\ref\UserBeatmapIds.dll
